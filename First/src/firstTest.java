@@ -3,7 +3,7 @@ public class firstTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//ok
+		//ok ascas
 	}
 
 }
